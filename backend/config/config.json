@@ -1,0 +1,14 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "DmX08775416421",
+    "database": "le106_db",
+    "host": "10.124.130.78",
+    "dialect": "mssql",
+    "timezone": "+07:00",
+    "options": {
+      "instance": "SQLEXPRESS",
+      "trustServerCertificate": true
+    }
+  }
+}
